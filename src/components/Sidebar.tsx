@@ -21,7 +21,6 @@ import {
   LineChart,
   File,
   Star,
-  Eye,
 } from "lucide-react";
 
 interface SidebarProps {
